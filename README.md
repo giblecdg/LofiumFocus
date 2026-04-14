@@ -2,7 +2,8 @@
 
 A minimalist Pomodoro timer with lofi music and ambient sounds.
 
-<img src="https://github.com/user-attachments/assets/0a289424-a33d-4079-b239-26d1bb5ca4c3" />
+<img width="603" height="1311" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-14 at 15 57 29" src="https://github.com/user-attachments/assets/8610c2f0-535f-4414-b7e1-207400857cf4" />
+
 
 ## ✨ Features
 
@@ -14,7 +15,7 @@ A minimalist Pomodoro timer with lofi music and ambient sounds.
 - 📈 **Weekly Summary** - Statistics with bar chart
 - 🐱 **Cute Cat Mascot** - Reacts to your streak!
 
-<img src="https://github.com/user-attachments/assets/7392fc63-dedb-47d0-88e3-399ed287f6e0" />
+<img width="603" height="1311" src="https://github.com/user-attachments/assets/7392fc63-dedb-47d0-88e3-399ed287f6e0" />
 
 ## 🎨 Themes
 
@@ -23,7 +24,7 @@ A minimalist Pomodoro timer with lofi music and ambient sounds.
 - Lavender Chill
 - Peachy Vibes
 
-<img src="https://github.com/user-attachments/assets/de44c1e2-6c88-44da-abd3-f768e96c22d0" />
+<img width="603" height="1311" src="https://github.com/user-attachments/assets/de44c1e2-6c88-44da-abd3-f768e96c22d0" />
 
 ## 👨‍💻 Author
 
