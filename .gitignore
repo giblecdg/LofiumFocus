@@ -1,0 +1,27 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+*.xcuserdatad/
+
+# Swift
+*.swiftmodule
+*.playground
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+
+# CocoaPods
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+
+# macOS
+.DS_Store
